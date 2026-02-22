@@ -999,6 +999,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [barbajs](https://github.com/barbajs/barba) - It helps you create fluid and smooth transitions between your website's pages.
 * [typicaljs](https://github.com/camwiegert/typical) - Animated typing in ~400 bytes 🐡 of JavaScript
 * [AutoAnimate](https://auto-animate.formkit.com) - Add motion to your apps with a single line of code.
+* [TouchFlip3D](https://github.com/labsisouleimen/TouchFlip3D-Web) - A high-performance, zero-dependency library for 3D card flipping with touch and mouse control.
 
 ## Image Processing
 
